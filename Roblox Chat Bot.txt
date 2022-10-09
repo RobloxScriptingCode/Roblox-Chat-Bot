@@ -1,0 +1,6 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("ENTER TEXT HERE [DON'T REMOVE SPEECH MARKS]", "All")
+
+//COPY AND PASTE THIS CODE INTO YOUR ROBLOX EXPLOIT
+
+print("This exploit was made by Tokyo (Roblox User @BananasRain")
+//This exploit was made by Tokyo (Roblox User @BananasRain
